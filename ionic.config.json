@@ -1,0 +1,7 @@
+{
+  "name": "IotMqtt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
